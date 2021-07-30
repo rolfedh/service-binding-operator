@@ -1,11 +1,27 @@
 # Application Workload Author's Guide
 
 
-## Plan
+## Planning
 What information should be gathered and what decisions should be made (for example, design/deployment) before the customer can start installing the product?
+
+If there's only one user story:
+here you write the planning process
+- concept
+- procedure
+- reference
+
+Otherwise, if there are multiple user stories:
+
+### User story 1 for planning
+
+### User story 2 for planning
+
+### User story 3 for planning
+
 
 ## Install
 How does the customer install the product on each of the supported platforms?
+
 
 ## Configure and Verify
 After the product is installed, what does the customer need to do to configure it to work in their environment? How do they test or verify that it is ready to put into production?
